@@ -1,0 +1,16 @@
+.car_type,
+.car_brand,
+.car_colour {
+    background: #ddd;
+    color: #0076be;
+    border-radius: 5px;
+    font-size: 20px;
+    min-width: 100px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    grid-gap: 10px;
+    margin-top: 10px;
+}

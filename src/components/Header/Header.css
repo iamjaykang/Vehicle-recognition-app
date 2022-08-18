@@ -1,0 +1,24 @@
+ul {
+    list-style: none;
+    padding: 0;
+    color: white;
+    display: inline-flex;
+    grid-gap: 10px;
+    font-weight: bold;
+}
+
+.main-menu {
+    float: left;
+    width: 100%;
+    background: #0076be;
+    text-align: left;
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: -3px;
+    z-index: 100;
+}
+
+.bottom_nav {
+    justify-content: left;
+}
